@@ -19,6 +19,7 @@ A passionate software developer crafting code and ideas. Currently focused on bu
 [<img align="left" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="30" alt="CSS3" />][css]
 [<img align="left" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-original.svg" width="30" alt=".NET" />][dotnet]
 [<img align="left" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="30" alt="Git" />][git]
+[<img align="left" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" width="30" alt="Azure" />][azure]
 <br />
 <br />
 [<img align="left" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="30" alt="VSCode" />][vsCode]
@@ -70,4 +71,5 @@ A passionate software developer crafting code and ideas. Currently focused on bu
 [css]: https://developer.mozilla.org/en-US/docs/Web/CSS
 [visualstudio]: https://visualstudio.microsoft.com/
 [lightroom]: https://www.adobe.com/products/photoshop-lightroom.html
+[azure]: https://azure.microsoft.com/
 
