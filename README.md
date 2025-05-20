@@ -17,7 +17,7 @@ A passionate software developer crafting code and ideas. Currently focused on bu
 [<img align="left" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="30" alt="JavaScript" />][js]
 [<img align="left" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="30" alt="HTML5" />][html]
 [<img align="left" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="30" alt="CSS3" />][css]
-[<img align="left" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-original.svg" width="30" alt=".NET" />][dotnet]
+[<img align="left" src="https://github.com/user-attachments/assets/e2c51200-3671-4a84-b723-d1b384adf6d6" width="30" alt=".NET" />][dotnet]
 [<img align="left" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="30" alt="Git" />][git]
 [<img align="left" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" width="30" alt="Azure" />][azure]
 <br />
