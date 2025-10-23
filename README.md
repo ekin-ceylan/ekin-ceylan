@@ -13,9 +13,9 @@ A passionate software developer crafting code and ideas. Currently focused on bu
 <br />
 
 [<img align="left" src="https://github.com/user-attachments/assets/e2c51200-3671-4a84-b723-d1b384adf6d6" width="30" alt=".NET" />][dotnet]
+[<img align="left" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" width="30" alt="Vue.js" />][vue]
 [<img align="left" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="30" alt="JavaScript" />][js]
 [<img align="left" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="30" alt="TypeScript" />][ts]
-[<img align="left" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" width="30" alt="Vue.js" />][vue]
 [<img align="left" src="https://lit.dev/images/flame-favicon.svg" width="24" alt="Lit" />][lit]
 [<img align="left" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="30" alt="HTML5" />][html]
 [<img align="left" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="30" alt="CSS3" />][css]
