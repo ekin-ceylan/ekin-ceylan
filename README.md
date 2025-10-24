@@ -47,10 +47,9 @@ A passionate software developer crafting code and ideas. Currently focused on bu
 
 **📊 My GitHub Stats:**
 <!-- GitHub Stats -->
-<img src="https://github-readme-stats.vercel.app/api?username=ekin-ceylan&show_icons=true&theme=default" alt="Ekin's GitHub stats" />
+<img src="https://github-readme-stats.vercel.app/api?username=ekin-ceylan&show_icons=true&theme=default" alt="Ekin's GitHub stats" />  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ekin-ceylan&theme=default&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="Ekin's GitHub stats" />
 <!-- <img src="https://github-readme-stats.vercel.app/api?username=ekin-ceylan&theme=default&hide_border=false&include_all_commits=true&count_private=true" alt="Ekin's GitHub stats" /> -->
 <img src="https://nirzak-streak-stats.vercel.app/?user=ekin-ceylan&theme=default&hide_border=false" alt="Ekin's GitHub stats" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ekin-ceylan&theme=default&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="Ekin's GitHub stats" />
 
 <!-- 
 ### 🔝 Top Contributed Repo
