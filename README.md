@@ -1,6 +1,4 @@
-## Hi there 👋
-
-A passionate software developer crafting code and ideas. Currently focused on building modern, efficient, and accessible web applications.
+A software developer crafting code and ideas. Currently focused on building modern, efficient, and accessible web applications.
 
 - 💼 I'm a software developer working with **JavaScript**, **.NET** and **Vue.js**
 - 🎯 Currently exploring **Web Components** and **Test Automation**
