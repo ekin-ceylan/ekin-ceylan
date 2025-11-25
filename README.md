@@ -50,9 +50,13 @@ A software developer crafting code and ideas. Currently focused on building mode
 <img src="https://nirzak-streak-stats.vercel.app/?user=ekin-ceylan&theme=default&hide_border=false" alt="Ekin's GitHub stats" />
 
 <!-- 
+![Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ekin-ceylan&theme=default)
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=ekin-ceylan&limit=5&theme=vue&combine_all_yearly_contributions=true)
  -->
+
+
+ 
  
 [instagram]: https://www.instagram.com/ekncyln
 [linkedin]: https://www.linkedin.com/in/ekin-ceylan/
